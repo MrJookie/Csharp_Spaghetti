@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Debug\EvidenceZamestnancu.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Debug\EvidenceZamestnancu.exe
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Debug\EvidenceZamestnancu.pdb
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Debug\MySql.Data.dll
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.exe
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.pdb
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.LOGIN.Login.resources
+c:\users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.LIST.List.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Debug\EvidenceZamestnancu.EDIT.Edit.resources

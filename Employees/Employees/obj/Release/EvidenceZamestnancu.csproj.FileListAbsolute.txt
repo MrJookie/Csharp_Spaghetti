@@ -1,0 +1,12 @@
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Release\EvidenceZamestnancu.exe.config
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Release\EvidenceZamestnancu.exe
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Release\EvidenceZamestnancu.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\bin\Release\MySql.Data.dll
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.EDIT.Edit.resources
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.LIST.List.resources
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.LOGIN.Login.resources
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.exe
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\EvidenceZamestnancu\EvidenceZamestnancu\obj\Release\EvidenceZamestnancu.csprojResolveAssemblyReference.cache

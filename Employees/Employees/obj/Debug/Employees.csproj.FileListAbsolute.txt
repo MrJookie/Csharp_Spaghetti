@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\bin\Debug\Employees.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\bin\Debug\Employees.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\bin\Debug\Employees.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\bin\Debug\MySql.Data.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\obj\Debug\Employees.EDIT.Edit.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\obj\Debug\Employees.LIST.List.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\obj\Debug\Employees.LOGIN.Login.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\obj\Debug\Employees.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\obj\Debug\Employees.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\EvidenceZamestnancu\Employees\obj\Debug\Employees.pdb
