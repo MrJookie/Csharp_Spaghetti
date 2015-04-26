@@ -61,6 +61,7 @@ namespace ChatClient
                 textBox_nickname.Enabled = true;
                 button_connect.Text = "connect";
 
+                textBox_connected_users.Text = "";
                 textBox_connected_users.Enabled = false;
                 textBox_connected_users.BackColor = SystemColors.Control;
                 textBox_messages.Enabled = false;

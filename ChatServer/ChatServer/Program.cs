@@ -90,23 +90,25 @@ namespace ChatServer
             foreach (var client in connectedUsers)
             {
                 TcpClient broadcastSocket = client.Key;
-
                 NetworkStream broadcastStream = broadcastSocket.GetStream();
 
                 if (eventType == 1) //connected
                 {
+                    /*
                     byte[] packetType = { 0x01 };
                     byte[] connectedPacket = Encoding.ASCII.GetBytes(currDatetime + userName + ": " + message + '\0');
                     byte[] sendPacket = Combine(packetType, connectedPacket);
 
                     broadcastStream.Write(sendPacket, 0, sendPacket.Length);
                     broadcastStream.Flush();
+                    */
 
                     byte[] packetType2 = { 0x02 };
-                    byte[] nickNamePacket = System.Text.Encoding.ASCII.GetBytes(getUserNames());
+                    byte[] nickNamePacket = System.Text.Encoding.ASCII.GetBytes(getUserNames() + '\0');
                     byte[] sendPacket2 = Combine(packetType2, nickNamePacket);
 
                     broadcastStream.Write(sendPacket2, 0, sendPacket2.Length);
+                    broadcastStream.Flush();
                 }
                 else if (eventType == 2) //send message
                 {
@@ -115,21 +117,26 @@ namespace ChatServer
                     byte[] sendPacket = Combine(packetType, messagePacket);
 
                     broadcastStream.Write(sendPacket, 0, sendPacket.Length);
+                    broadcastStream.Flush();
+              
                 }
                 else if (eventType == 3) //disconnected
                 {
+                    /*
                     byte[] packetType = { 0x01 };
                     byte[] disconnectedPacket = Encoding.ASCII.GetBytes(currDatetime + userName + ": " + message + '\0');
                     byte[] sendPacket = Combine(packetType, disconnectedPacket);
 
                     broadcastStream.Write(sendPacket, 0, sendPacket.Length);
                     broadcastStream.Flush();
+                    */
 
                     byte[] packetType2 = { 0x02 };
                     byte[] nickNamePacket = System.Text.Encoding.ASCII.GetBytes(getUserNames());
                     byte[] sendPacket2 = Combine(packetType2, nickNamePacket);
 
                     broadcastStream.Write(sendPacket2, 0, sendPacket2.Length);
+                    broadcastStream.Flush();
                 }
 
                 broadcastStream.Flush();
@@ -180,7 +187,7 @@ namespace ChatServer
                     else
                     {
                         Console.WriteLine(currDatetime + userName + ": " + message);
-                        Program.broadcast(userName, message, 1);
+                        Program.broadcast(userName, message, 2);
                     }
                 }
                 catch (Exception)
@@ -189,7 +196,7 @@ namespace ChatServer
                     if (connectedUsers.TryRemove(clientSocket, out userName))
                     {
                         Console.WriteLine(currDatetime + userName + ": disconnected");
-                        Program.broadcast(userName, "disconnected", 3);
+                        //Program.broadcast(userName, "disconnected", 3);
                     }
 
                     Thread.CurrentThread.Abort();
