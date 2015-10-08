@@ -1,0 +1,22 @@
+C:\Users\26868\AppData\Local\Temporary Projects\PPG01\bin\Debug\PPG01.exe
+C:\Users\26868\AppData\Local\Temporary Projects\PPG01\bin\Debug\PPG01.pdb
+C:\Users\26868\AppData\Local\Temporary Projects\PPG01\obj\x86\Debug\PPG01.Form1.resources
+C:\Users\26868\AppData\Local\Temporary Projects\PPG01\obj\x86\Debug\PPG01.Properties.Resources.resources
+C:\Users\26868\AppData\Local\Temporary Projects\PPG01\obj\x86\Debug\PPG01.csproj.GenerateResource.Cache
+C:\Users\26868\AppData\Local\Temporary Projects\PPG01\obj\x86\Debug\PPG01.exe
+C:\Users\26868\AppData\Local\Temporary Projects\PPG01\obj\x86\Debug\PPG01.pdb
+C:\Users\26868\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.exe
+C:\Users\26868\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.pdb
+C:\Users\26868\Desktop\grafika\PPG01\PPG01\bin\Debug\PPG01.exe
+C:\Users\26868\Desktop\grafika\PPG01\PPG01\bin\Debug\PPG01.pdb
+C:\Users\26868\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.Form1.resources
+C:\Users\26868\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.Properties.Resources.resources
+C:\Users\26868\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.exe
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.pdb
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\bin\Debug\PPG01.exe
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\bin\Debug\PPG01.pdb
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.Form1.resources
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.Properties.Resources.resources
+C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.csproj.GenerateResource.Cache
