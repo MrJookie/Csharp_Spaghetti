@@ -20,3 +20,5 @@ C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.csprojResolveAsse
 C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.Form1.resources
 C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.Properties.Resources.resources
 C:\Users\admin\Desktop\grafika\PPG01\PPG01\obj\x86\Debug\PPG01.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG01\PPG01\obj\x86\Debug\PPG01.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG01\PPG01\obj\x86\Debug\PPG01.pdb
