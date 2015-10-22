@@ -1,0 +1,15 @@
+C:\Users\26868\Desktop\grafika\PPG03\PPG03\bin\Debug\PPG03.exe
+C:\Users\26868\Desktop\grafika\PPG03\PPG03\bin\Debug\PPG03.pdb
+C:\Users\26868\Desktop\grafika\PPG03\PPG03\obj\x86\Debug\PPG03.Form1.resources
+C:\Users\26868\Desktop\grafika\PPG03\PPG03\obj\x86\Debug\PPG03.Properties.Resources.resources
+C:\Users\26868\Desktop\grafika\PPG03\PPG03\obj\x86\Debug\PPG03.csproj.GenerateResource.Cache
+C:\Users\26868\Desktop\grafika\PPG03\PPG03\obj\x86\Debug\PPG03.exe
+C:\Users\26868\Desktop\grafika\PPG03\PPG03\obj\x86\Debug\PPG03.pdb
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\obj\x86\Debug\PPG03.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\obj\x86\Debug\PPG03.pdb
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\obj\x86\Debug\PPG03.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\obj\x86\Debug\PPG03.Form1.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\obj\x86\Debug\PPG03.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\obj\x86\Debug\PPG03.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\bin\Debug\PPG03.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG03\PPG03\bin\Debug\PPG03.pdb

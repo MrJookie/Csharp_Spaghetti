@@ -107,11 +107,10 @@ namespace PPG01
             Bitmap b1 = new Bitmap(b.Width, b.Height);
 
             int[] quantizationTable = new int[k];
-            int intervals = 256 / k;
+            int interval = 256 / k;
             for (int i = 0; i < k; i++)
             {
-                quantizationTable[i] = intervals * i;
-                //quantizationTable[i] = intervals * i + intervals;
+                quantizationTable[i] = interval * i;
             }
 
             for (int x = 0; x < b1.Width; x++)
@@ -121,28 +120,30 @@ namespace PPG01
                     Color c = b.GetPixel(x, y);
 
                     int intensityR = 0;
-                    int intensityG = 0;
-                    int intensityB = 0;
 
                     for (int i = 0; i < quantizationTable.Length; i++)
                     {
                         if (c.R > quantizationTable[i])
                         {
-                            intensityR = quantizationTable[i];
-                        }
-
-                        if (c.G > quantizationTable[i])
-                        {
-                            intensityG = quantizationTable[i];
-                        }
-
-                        if (c.B > quantizationTable[i])
-                        {
-                            intensityB = quantizationTable[i];
+                            if (quantizationTable[i] == 0)
+                            {
+                                intensityR = quantizationTable[i];
+                            }
+                            else
+                            {
+                                if (quantizationTable[i] + interval > 255)
+                                {
+                                    intensityR = 255;
+                                }
+                                else
+                                {
+                                    intensityR = quantizationTable[i] + interval;
+                                }
+                            }
                         }
                     }
 
-                    b1.SetPixel(x, y, Color.FromArgb(intensityR, intensityG, intensityB));
+                    b1.SetPixel(x, y, Color.FromArgb(intensityR, intensityR, intensityR));
                 }
             }
 
@@ -152,7 +153,7 @@ namespace PPG01
         int clicks = 2;
         private void button1_Click(object sender, EventArgs e)
         {
-            Bitmap b = new Bitmap("C:\\Users\\admin\\Desktop\\grafika\\interpolated.png");
+            Bitmap b = new Bitmap("C:\\Users\\admin\\Desktop\\grafika\\grayscale.jpg");
             Graphics g = this.CreateGraphics();
 
             //g.DrawImage(b, 0, 40);
