@@ -1,0 +1,22 @@
+C:\Users\26868\AppData\Local\Temporary Projects\PPG05\bin\Debug\PPG05.exe
+C:\Users\26868\AppData\Local\Temporary Projects\PPG05\bin\Debug\PPG05.pdb
+C:\Users\26868\AppData\Local\Temporary Projects\PPG05\obj\x86\Debug\PPG05.Form1.resources
+C:\Users\26868\AppData\Local\Temporary Projects\PPG05\obj\x86\Debug\PPG05.Properties.Resources.resources
+C:\Users\26868\AppData\Local\Temporary Projects\PPG05\obj\x86\Debug\PPG05.csproj.GenerateResource.Cache
+C:\Users\26868\AppData\Local\Temporary Projects\PPG05\obj\x86\Debug\PPG05.exe
+C:\Users\26868\AppData\Local\Temporary Projects\PPG05\obj\x86\Debug\PPG05.pdb
+C:\Users\26868\Desktop\grafika\PPG05\PPG05\obj\x86\Debug\PPG05.exe
+C:\Users\26868\Desktop\grafika\PPG05\PPG05\obj\x86\Debug\PPG05.pdb
+C:\Users\26868\Desktop\grafika\PPG05\PPG05\bin\Debug\PPG05.exe
+C:\Users\26868\Desktop\grafika\PPG05\PPG05\bin\Debug\PPG05.pdb
+C:\Users\26868\Desktop\grafika\PPG05\PPG05\obj\x86\Debug\PPG05.Form1.resources
+C:\Users\26868\Desktop\grafika\PPG05\PPG05\obj\x86\Debug\PPG05.Properties.Resources.resources
+C:\Users\26868\Desktop\grafika\PPG05\PPG05\obj\x86\Debug\PPG05.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\obj\x86\Debug\PPG05.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\obj\x86\Debug\PPG05.pdb
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\bin\Debug\PPG05.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\bin\Debug\PPG05.pdb
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\obj\x86\Debug\PPG05.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\obj\x86\Debug\PPG05.Form1.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\obj\x86\Debug\PPG05.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG05\PPG05\obj\x86\Debug\PPG05.csproj.GenerateResource.Cache
