@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\bin\Release\PPG06.exe.config
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\bin\Release\PPG06.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\bin\Release\PPG06.pdb
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\obj\Release\PPG06.Form1.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\obj\Release\PPG06.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\obj\Release\PPG06.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\obj\Release\PPG06.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG06\PPG06\obj\Release\PPG06.pdb
