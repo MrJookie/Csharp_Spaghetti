@@ -98,12 +98,19 @@ namespace PPG06
                 }
             }
 
-            for (int x = 1; x < step; x++)
+            for (int x = 0; x < step; x++)
             {
-                for (int y = 1; y < step; y++)
+                for (int y = 0; y < step; y++)
                 {
-                    graphics.DrawLine(Pens.Green, points[x, y], points[x - 1, y]);
-                    graphics.DrawLine(Pens.Blue, points[x, y], points[x, y - 1]);
+                    if (x == 0)
+                        graphics.DrawLine(Pens.Green, points[x, y], points[x + 1, y]);
+                    else
+                        graphics.DrawLine(Pens.Green, points[x, y], points[x - 1, y]);
+
+                    if(y == 0)
+                        graphics.DrawLine(Pens.Blue, points[x, y], points[x, y + 1]);
+                    else
+                        graphics.DrawLine(Pens.Blue, points[x, y], points[x, y - 1]);
                 }
             }
 
