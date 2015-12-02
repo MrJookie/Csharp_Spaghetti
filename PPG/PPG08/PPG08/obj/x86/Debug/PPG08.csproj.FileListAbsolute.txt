@@ -1,0 +1,15 @@
+C:\Users\26868\Desktop\grafika\PPG08\PPG08\bin\Debug\PPG08.exe
+C:\Users\26868\Desktop\grafika\PPG08\PPG08\bin\Debug\PPG08.pdb
+C:\Users\26868\Desktop\grafika\PPG08\PPG08\obj\x86\Debug\PPG08.Properties.Resources.resources
+C:\Users\26868\Desktop\grafika\PPG08\PPG08\obj\x86\Debug\PPG08.csproj.GenerateResource.Cache
+C:\Users\26868\Desktop\grafika\PPG08\PPG08\obj\x86\Debug\PPG08.exe
+C:\Users\26868\Desktop\grafika\PPG08\PPG08\obj\x86\Debug\PPG08.pdb
+C:\Users\26868\Desktop\grafika\PPG08\PPG08\obj\x86\Debug\PPG08.Point3.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\obj\x86\Debug\PPG08.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\obj\x86\Debug\PPG08.pdb
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\bin\Debug\PPG08.exe
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\bin\Debug\PPG08.pdb
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\obj\x86\Debug\PPG08.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\obj\x86\Debug\PPG08.Point3.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\obj\x86\Debug\PPG08.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\Csharp_Spaghetti\PPG\PPG08\PPG08\obj\x86\Debug\PPG08.csproj.GenerateResource.Cache
