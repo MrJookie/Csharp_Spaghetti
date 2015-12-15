@@ -182,7 +182,7 @@ namespace PPG07
             return matrix;
         }
 
-        private void halftone()
+        private void dither()
         {
             Random generator = new Random();
 
@@ -216,7 +216,7 @@ namespace PPG07
             }
         }
 
-        private void dither()
+        private void halftone()
         {
             for (int x = 0; x < bitmap.Width; x++)
             {
